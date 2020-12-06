@@ -1,4 +1,4 @@
 # Heroku pipeline deployment demo
 
  
-https://salary-demo-app.herokuapp.com/predict
+https://salary-demo-app.herokuapp.com/
